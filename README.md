@@ -1,4 +1,4 @@
-# Example Skaffold(Node)
+# Example Page
 
 ## Pre-requirements 📋
 
