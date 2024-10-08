@@ -14,7 +14,7 @@ _It is recommended to have the following technologies installed_
 _To run the project you must create an [.envrc](.envrc-example) file with the following environment variables_
 
 ```
-export PORT=XXXX
+export PORT=8000
 
 ```
 
